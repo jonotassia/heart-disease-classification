@@ -1,4 +1,4 @@
-# heart-disease-classification
+# Heart Disease Classification
 
 This programme builds and trains a machine learning classification model to predict heart failure prevalance based on comorbidities. This includes:
 - Code to explore and clean data using Pandas, NumPy, and Matplotlib
